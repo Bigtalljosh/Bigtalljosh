@@ -9,3 +9,5 @@ I'm a Senior Dev [@Purplebricks](https://github.com/purplebricks):purple_heart:,
 In my personal time I'm building a business with some friends using some more nice buzzwords like Blazor, Cosmos and Sweet Chin Music :eyes: 
 
 Currently learning Blazor wasm, many data things, and the latest and greatest in devops to facilitate everything else. 
+
+If you want to get in touch, feel free to raise an issue over [here](https://github.com/Bigtalljosh/ama/issues)
