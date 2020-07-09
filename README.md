@@ -1,5 +1,7 @@
 # OH HELLO THERE!
 
+![Alt Text](https://media.giphy.com/media/djRJNZqj508sE/giphy.gif)
+
 Oooh Secrets! :godmode:
 
 Testing out the new README profile feature. :boom:
