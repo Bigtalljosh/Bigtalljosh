@@ -1,6 +1,5 @@
 ![Alt Text](https://media.giphy.com/media/djRJNZqj508sE/giphy.gif)
 ![BigTallJosh's github stats](https://github-readme-stats.vercel.app/api?username=Bigtalljosh&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigtalljosh&hide=javascript&layout=compact&theme=radical)
 
 Hi, I'm Josh, a software engineer from the UK.
 
