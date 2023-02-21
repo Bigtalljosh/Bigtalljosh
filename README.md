@@ -7,7 +7,7 @@ Hi, I'm Josh, a software engineer from the UK.
 - :computer: Currently working on my project [Strife](https://github.com/Bigtalljosh/Strife) In order to learn a bunch of new tech
 - :mortar_board: Currently learning Blazor, Terraform and many different frontend things to round off my full-stack skills.
 - :speech_balloon: Ask me anything [here](https://github.com/Bigtalljosh/Bigtalljosh/issues)
-- :black_heart: I'm a Senior Software Engineer [@ASOS](https://github.com/ASOS)
+- :black_heart: I'm an Engineering Manager [@ASOS](https://github.com/ASOS)
 - :purple_heart: I was previously a Tech Lead [@Purplebricks](https://github.com/purplebricks)
 - :green_heart: In my personal time I'm building [Powered4TV!](https://powered4.tv)
 
