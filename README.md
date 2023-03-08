@@ -1,10 +1,9 @@
 ![Alt Text](https://media.giphy.com/media/djRJNZqj508sE/giphy.gif)
 ![BigTallJosh's github stats](https://github-readme-stats.vercel.app/api?username=Bigtalljosh&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
 
-Hi, I'm Josh, a software engineer from the UK.
+Hi, I'm Josh, an engineering manager from the UK.
 
-- :computer: Currently working on my project [Strife](https://github.com/Bigtalljosh/Strife) In order to learn a bunch of new tech
-- :mortar_board: Currently learning Blazor, Terraform and many different frontend things to round off my full-stack skills.
+- :mortar_board: Currently learning UE5 in my spare time, time to put my games programming degree to good use!
 - :speech_balloon: Ask me anything [here](https://github.com/Bigtalljosh/Bigtalljosh/issues)
 - :black_heart: I'm an Engineering Manager [@ASOS](https://github.com/ASOS)
 - :purple_heart: I was previously a Tech Lead [@Purplebricks](https://github.com/purplebricks)
