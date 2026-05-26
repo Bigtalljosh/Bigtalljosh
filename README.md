@@ -1,9 +1,11 @@
 ![Alt Text](https://media.giphy.com/media/djRJNZqj508sE/giphy.gif)
 <!-- ![BigTallJosh's github stats](https://github-readme-stats.vercel.app/api?username=Bigtalljosh&show_icons=true&count_private=true&hide=stars,issues&theme=radical) !-->
 
-Hi, I'm Josh, Principal Engineer @ [CATCHES](https://github.com/CATCHES-1)!
+Hi, I'm Josh!
 
-🎓 Currently learning Golang, UE5 and Generative AI
+👗 I was the Principal Engineer at @ [CATCHES](https://catches.ai) helping build the future of fashion commerce tech.
+
+🎓 I'm currently learning how best to use the ever changing landscpe of AI tools to augment my workflows.
 
 💬 Ask me anything [here](https://github.com/Bigtalljosh/Bigtalljosh/issues)
 
